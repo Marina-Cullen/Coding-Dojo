@@ -1,0 +1,16 @@
+.Button1{
+    width: 150px;
+    height: 25px;
+    background-color: rgb(225, 225, 225);
+    color: rgb(69, 211, 206);
+    display: block;
+    text-align: center;
+    border-radius: 25px;
+    border: aquamarine;
+    outline-color: darkcyan;
+    outline-style: solid;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: medium;
+   font:bold;
+    
+}

@@ -1,0 +1,36 @@
+h1{
+    background-color: red;
+    color: blue;
+    text-align: center;
+}
+.gothic{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.cursive{
+    font-family: cursive;
+}
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.green, .orange{
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+    padding: 20px;
+    display: inline-block;
+}    
+
+.green{
+    background-color: aqua;
+}
+.orange{
+    background-color: chartreuse;
+}
+.yellow{
+    width: 100px;
+    height: 100px;
+    background-color: darkgoldenrod;
+    border: 4px solid black;
+    border-radius: 50px;
+    margin: 30px;
+}

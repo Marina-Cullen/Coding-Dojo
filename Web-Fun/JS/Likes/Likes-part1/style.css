@@ -1,0 +1,32 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.containerall {
+    border: 3px solid black;
+    display: inline-block;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 400px;
+    height: 150px;
+    padding: 20px;
+    margin: 30px;
+}
+
+.row1 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+button {
+    background-color: rgb(245, 189, 46);
+    padding: 7px;
+}
+
+.row2 {
+    display: flex;
+    align-items: center;
+    margin: 10px;
+    margin-top: 40px;
+}

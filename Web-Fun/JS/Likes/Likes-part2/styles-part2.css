@@ -1,0 +1,83 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.allzall {
+    width: 700px;
+    height: 800px;
+    margin-left: 450px;
+    display: inline-flex;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* start navbar */
+.navbar {
+    background-color: black;
+    color: white;
+    height: 50px;
+    width: 650px;
+    margin-left: 450px;
+    padding: 5px;
+    align-items: center;
+    display: flex;
+}
+.heading {
+    text-align: center;
+}
+/* start main body */
+
+.mainBody {
+    display: inline-flex;
+    
+}
+
+/* start user box */
+.user {
+    border: 2px solid black;
+    width: 175px;
+    height: 250px;
+    margin-top: 20px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+    
+}
+
+img {
+    width: 125px;
+    border-radius: 50%;
+    border: 3px solid darkcyan;
+}
+
+/* start posts */
+
+.posts {
+    border: 2px solid black;
+    width: 425px;
+    height: 125px;
+    padding: 10px;
+    margin: 20px;
+
+}
+
+
+button {
+    background-color: rgb(245, 189, 46);
+    padding: 7px;
+    box-shadow: 4px 4px;
+    border: 3px solid black;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.row2 {
+    justify-content: center;
+    margin-top: 15px;
+}
